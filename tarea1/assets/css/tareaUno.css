@@ -1,0 +1,49 @@
+* {
+    background-color: #232323;
+    color: #dedede;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+span {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.lista-cerrada {
+    list-style-image:url(../img/flechaCerrada.png);
+}
+
+.lista-abierta {
+    list-style-image:url(../img/flechaAbierta.png);
+}
+
+.img {
+    list-style-image: url(../img/img.png);
+}
+
+.simbolo-HTML {
+    list-style-image:url(../img/simboloHTML.png);
+}
+
+.simbolo-GIT {
+    list-style-image:url(../img/git.png);
+}
+
+.simbolo-TEXT {
+    list-style-image:url(../img/texto.png);
+}
+
+.simbolo-abajo {
+}
+
+a:hover{
+    color: #bdbdbd;
+}
